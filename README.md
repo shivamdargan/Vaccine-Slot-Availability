@@ -7,7 +7,7 @@ Installing Cowin API Package:
 
 npm install cowin
 
-Installing Sound-Library Package for notifying user of Vaccine's Availability At The Instant
+Installing Sound-Library Package for notifying user of Vaccine's Availability At The Instant :
 
 npm install playsound
 ```
