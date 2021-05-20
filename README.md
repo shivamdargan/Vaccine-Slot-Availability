@@ -1,6 +1,6 @@
 # Vaccine Slot Availability
  A Simple Python Script That Checks Slot Availability In Your Specified State
- This Script Uses Cowin API link for whiich is : 
+ This Script Uses Cowin API link for which is : 
  https://pypi.org/project/cowin/
  
 **************Required Packages**************
